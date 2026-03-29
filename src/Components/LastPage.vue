@@ -13,7 +13,11 @@
 
     <p>Last question: When are you free?</p>
     <input type="text" />
+    <br />
+    <button @click="emit('continue')">Yes to a second date!</button>
   </article>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const emit = defineEmits(['continue']);
+</script>

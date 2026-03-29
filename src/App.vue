@@ -8,6 +8,7 @@ import FirstQuestion from './Components/FirstQuestion.vue';
 import FourthQuestion from './Components/FourthQuestion.vue';
 import LastPage from './Components/LastPage.vue';
 import SecondQuestion from './Components/SecondQuestion.vue';
+import SubmitPage from './Components/SubmitPage.vue';
 import ThirdQuestion from './Components/ThirdQuestion.vue';
 import WelcomePage from './Components/WelcomePage.vue';
 import { ref } from 'vue';
@@ -20,6 +21,7 @@ const pages = [
   FourthQuestion,
   FifthQuestion,
   LastPage,
+  SubmitPage,
 ];
 
 const page = ref(0);

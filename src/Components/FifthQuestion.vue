@@ -30,7 +30,7 @@
 
     <br />
     <div>
-      <button @click="beforeContinue">Finish</button> <text> </text>
+      <button @click="beforeContinue">Continue</button> <text> </text>
       <button @click="emit('goBack')">Go Back</button>
     </div>
   </article>
