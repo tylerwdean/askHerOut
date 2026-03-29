@@ -5,7 +5,7 @@
     <p>If you're seeing this- I hope you had a good time!</p>
 
     <p>
-      We are going to go on a little journey. Please fill out all forms as accuraty as possible!
+      We are going to go on a little journey. Please fill out all forms as accurately as possible!
     </p>
 
     <p>Please also give all answers verbally as this can't save responses! Thanks!</p>
